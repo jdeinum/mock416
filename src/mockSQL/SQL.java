@@ -1,5 +1,6 @@
 package mockSQL;
 
+import static mockSQL.Stuff;
 public class SQL implements Stuff {
     public static String sanitizeString(String string) {
         // mock sanitization
