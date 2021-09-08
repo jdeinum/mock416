@@ -11,4 +11,6 @@ public class SQL implements Stuff {
 
     public void stuff() {}
 
+    public void test() {}
+
 }
